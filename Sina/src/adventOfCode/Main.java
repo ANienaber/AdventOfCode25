@@ -2,7 +2,7 @@ package adventOfCode;
 
 public class Main {
     public static void main(String[] args) {
-        Day day = new Day2(2, 1227775554, 4174379265L);
+        Day day = new Day3(3, 357, 3121910778619L);
         day.run();
     }
 }
