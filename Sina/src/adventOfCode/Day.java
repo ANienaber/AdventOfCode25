@@ -61,4 +61,8 @@ public abstract class Day {
             System.out.println(value);
         }
     }
+
+    protected boolean isTest() {
+        return test;
+    }
 }
